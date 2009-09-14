@@ -6,7 +6,7 @@
 Summary:	%{_pearname} - Object-oriented interface to the session_* family functions
 Name:		php-pear-%{_pearname}
 Version:	0.5.5
-Release:	%mkrel 3
+Release:	%mkrel 4
 License:	PHP License
 Group:		Development/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tar.bz2
