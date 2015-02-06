@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.5.5
-Release:	9
+Release:	10
 Summary:	Object-oriented interface to the session_* family functions
 License:	PHP License
 Group:		Development/PHP
